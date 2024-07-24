@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+pydantic
+numpy==1.26.4
